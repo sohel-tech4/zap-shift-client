@@ -21,7 +21,7 @@ const Brands = () => {
   ];
 
   return (
-    <div className="my-7">
+    <div className="my-20">
       <h1 className="text-3xl text-center my-7 font-bold">
         We've helped thousands of sales teams
       </h1>
